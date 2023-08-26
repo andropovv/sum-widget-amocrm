@@ -1,0 +1,13 @@
+{
+  "widget": {
+    "name": "Summation of transaction fields",
+    "short_description": "The widget sums fields with the names specified in the settings",
+    "description": "The widget sums fields with the names specified in the settings",
+    "tour_description": "Tour description"
+  },
+  "settings": {
+    "summand1": "Name of the field for the first summand",
+    "summand2": "Name of the field for the second summand",
+    "sum": "Name of the field for the sum (will be unavailable for data entry)"
+  }
+}
